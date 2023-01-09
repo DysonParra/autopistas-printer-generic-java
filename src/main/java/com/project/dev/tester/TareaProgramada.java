@@ -12,11 +12,11 @@
  * @version 1.0     Implementación realizada.
  * @version 2.0     Documentación agregada.
  */
-package com.rtc.dummy;
+package com.project.dev.tester;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.rtc.dummy.printer.SocketPrinter;
-import com.rtc.dummy.printer.objecttoprint.autopistasdelcafe.ticket.SocketTicket;
+import com.project.dev.dummy.printer.SocketPrinter;
+import com.project.dev.dummy.printer.objecttoprint.autopistasdelcafe.ticket.SocketTicket;
 import java.util.List;
 import java.util.Scanner;
 import org.springframework.scheduling.annotation.Scheduled;

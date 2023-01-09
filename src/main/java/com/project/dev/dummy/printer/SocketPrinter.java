@@ -12,9 +12,9 @@
  * @version 1.0     Implementación realizada.
  * @version 2.0     Documentación agregada.
  */
-package com.rtc.dummy.printer;
+package com.project.dev.dummy.printer;
 
-import com.rtc.dummy.printer.objecttoprint.generic.GenericObjectToPrint;
+import com.project.dev.dummy.printer.objecttoprint.generic.GenericObjectToPrint;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;

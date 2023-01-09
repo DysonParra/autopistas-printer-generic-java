@@ -12,10 +12,10 @@
  * @version 1.0     Implementación realizada.
  * @version 2.0     Documentación agregada.
  */
-package com.rtc.dummy.printer;
+package com.project.dev.dummy.printer;
 
-import com.rtc.dummy.printer.objecttoprint.generic.GenericObjectToPrint;
-import com.rtc.dummy.printer.objecttoprint.generic.line.GenericImgLineToPrint;
+import com.project.dev.dummy.printer.objecttoprint.generic.GenericObjectToPrint;
+import com.project.dev.dummy.printer.objecttoprint.generic.line.GenericImgLineToPrint;
 import java.awt.Color;
 import java.awt.Graphics2D;
 import java.awt.RenderingHints;
