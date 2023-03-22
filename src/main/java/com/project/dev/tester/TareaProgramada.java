@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {TareaProgramada} se encarga de realizar tareas específicas.
+ * @fileoverview    {TareaProgramada}
  *
  * @version         2.0
  *
