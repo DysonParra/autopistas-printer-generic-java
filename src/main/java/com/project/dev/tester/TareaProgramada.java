@@ -23,7 +23,7 @@ import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Component;
 
 /**
- * TODO: Definición de {@code TareaProgramada}.
+ * TODO: Description of {@code TareaProgramada}.
  *
  * @author Dyson Parra
  * @since 11
@@ -34,7 +34,7 @@ public class TareaProgramada {
     private static final ObjectMapper objectMapper = new ObjectMapper();
 
     /**
-     * TODO: Definición de {@code startProgramProcess}.
+     * TODO: Description of {@code startProgramProcess}.
      *
      */
     @Scheduled(fixedRate = 86400000, initialDelay = 2000)
